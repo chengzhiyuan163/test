@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("test success");
         System.out.println("version 1.2");
         System.out.println("version 1.3");
+        System.out.println("version 1.4");
     }
 }
